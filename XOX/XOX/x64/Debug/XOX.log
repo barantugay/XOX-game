@@ -1,0 +1,5 @@
+﻿  main.cpp
+  XOX.cpp
+  Kod Üretiliyor...
+C:\Users\baran\OneDrive\Masaüstü\Kodlarım\C++\XOX\XOX\XOX.cpp(21,1): warning C4715: 'XOX::interface': tüm denetim yolları değer döndürmez
+  XOX.vcxproj -> C:\Users\baran\OneDrive\Masaüstü\Kodlarım\C++\XOX\x64\Debug\XOX.exe
